@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Platform](https://img.shields.io/badge/Platform-Looker_Studio-orange)
 
-### 🔴 [**LAUNCH LIVE COMMAND CENTER**](YOUR_LOOKER_STUDIO_LINK_HERE)
+### 🔴 [**LAUNCH LIVE COMMAND CENTER**](https://lookerstudio.google.com/reporting/551f2a30-58d2-4443-a055-8de4780bebd2)
 *(Click above to access the interactive dashboard)*
 
 ---
